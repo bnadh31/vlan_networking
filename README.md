@@ -1,11 +1,11 @@
 <h1>VLAN Network Plan</h1>
-I just started to check and work with network systems. For me, the Cisco Packet Tracer is a good way to understand of the network systems. 
+I just started to check and work with network systems. The Cisco Packet Tracer is a good way to understand the network systems. 
 It is like a simulation of real network systems. 
-Also, In this project I desided to do VLAN network for learning. 
-I didn't write IP calculating for subnetting but you can check and find it on the internet.
+Also, I decided to do a VLAN network for learning in this project. 
+I didn't write IP calculating for subnetting but you can check and find it online.<br>
 
 -I planned to use 3 network areas for this project.<br>
--I selected " 192.168.1.0 " adress. You can change as you wish.<br>
+-I selected the "192.168.1.0" address. You can change as you wish.<br>
 -IP addresses are like that:<br>
 
 <h3>First part of the network(VLAN 10)</h3>
@@ -28,4 +28,8 @@ I didn't write IP calculating for subnetting but you can check and find it on th
       .<br>
       .<br>
       .<br>
-192.168.1.191 /Broadcast Address <br>     
+192.168.1.191 /Broadcast Address <be>     
+
+![Screenshot 2024-03-02 at 16 11 16](https://github.com/bnadh31/vlan_networking/assets/117117525/78941b5d-880d-493b-ac03-5df7a7fda4b5)<br>
+
+I got support from YouTube videos.
