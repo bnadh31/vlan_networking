@@ -1,5 +1,5 @@
 <h1>VLAN Network Plan</h1>
-I just started to check and work with network systems. The Cisco Packet Tracer is a good way to understand the network systems. 
+I just started to research and work with network systems. The Cisco Packet Tracer is a good way to understand the network systems. 
 It is like a simulation of real network systems. 
 Also, I decided to do a VLAN network for learning in this project. 
 I didn't write IP calculating for subnetting but you can check and find it online.<br>
